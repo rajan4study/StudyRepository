@@ -27,7 +27,7 @@ public class StudyController {
 //	}
 	
 //tet commit in git
-	//test jenkin automatic trigger
+	//test jenkin automatic trigger second time
 	
 @Autowired
 StudyRepo repo;
