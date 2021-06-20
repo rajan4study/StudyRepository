@@ -26,6 +26,8 @@ public class StudyController {
 //		return list;
 //	}
 	
+//tet commit in git
+	
 @Autowired
 StudyRepo repo;
 
